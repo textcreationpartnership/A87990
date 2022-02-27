@@ -1,0 +1,245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter of addresse from the officers of the army in Scotland, directed to the Honourable, the Speaker of the Parliament of the commonwealth of England sitting at Westminster. Wednesday the 18th of May 1659. Ordered by the Parliament that this letter be forthwith printed and published. Tho. St Nicholas clerk of the Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87990</idno>
+            <idno type="STC">Wing L1564</idno>
+            <idno type="STC">Thomason E983_19</idno>
+            <idno type="STC">ESTC R3007</idno>
+            <idno type="EEBO-CITATION">99872249</idno>
+            <idno type="PROQUEST">99872249</idno>
+            <idno type="VID">168580</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87990)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168580)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 146:E983[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter of addresse from the officers of the army in Scotland, directed to the Honourable, the Speaker of the Parliament of the commonwealth of England sitting at Westminster. Wednesday the 18th of May 1659. Ordered by the Parliament that this letter be forthwith printed and published. Tho. St Nicholas clerk of the Parliament.</title>
+                  <author>Albemarle, George Monck, Duke of, 1608-1670.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Field, printer to the Parliament. And are to be sold at the seven Stars in Fleetstreet, over against Dunstans Church,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: George Monck, Thomas Reade, Ralph Cobbet .. [and 23 others].</note>
+                  <note>Annotation on Thomason copy: "May 19th"; "May. 19".</note>
+                  <note>Reproductions of originals in Henry E. Huntington Library and Art Gallery and the British Library (Thomason Tracts).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Albemarle, George Monck, --  Duke of, 1608-1670 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168580:1" rendition="simple:additions"/>
+            <p>A LETTER OF ADDRESSE FROM THE OFFICERS of the ARMY IN SCOTLAND, DIRECTED To the Honourable, the Speaker of the Parliament of the Common<g ref="char:EOLhyphen"/>wealth of <hi>England</hi> ſitting at <hi>Weſtminſter.</hi>
+            </p>
+            <p>
+               <hi>Wedneſday the</hi> 18<hi rend="sup">th</hi> 
+               <hi>of</hi> May 1659.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>ORdered by the Parliament that this Letter be forthwith Prin<g ref="char:EOLhyphen"/>ted and Publiſhed.</p>
+                  <p>
+                     <hi>Tho.</hi> S<hi rend="sup">t</hi> 
+                     <hi>Nicholas</hi> Clerk of the Parliament.</p>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field,</hi> Printer to the Parliament.</p>
+            <p>And are to be ſold at the ſeven Stars in <hi>Fleetſtreet,</hi> over againſt <hi>Dunſtans</hi> Church, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:168580:2"/>
+            <pb n="1" facs="tcp:168580:2"/>
+            <head>For the Honorable the Speaker of the Parliament of the Common<g ref="char:EOLhyphen"/>wealth of <hi>England,</hi> Sitting at <hi>Weſtminſter.</hi>
+            </head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat a Nation may be born in a day, is a Truth which this days experience wit<g ref="char:EOLhyphen"/>neſſeth unto us againſt all the Dictates of humane Reaſon; and that a glorious Cauſe, whoſe Intereſt was laid low (even in the Duſt) ſhould be in one day reſtored to its life and luſtre; when almoſt all the Aſſertors of it had ſo mani<g ref="char:EOLhyphen"/>feſtly declin'd it, by a defection of many years, cannot be imputed to leſs then the greateſt and moſt powerfull manifeſtation of the Arm of God, that ever this, or former Generations ſaw
+<pb n="2" facs="tcp:168580:3"/>or heard of. In the ſence of this (the greateſt of our Temporal Mercies) we now come to Ad<g ref="char:EOLhyphen"/>dreſs to your Honors, as thoſe whoſe preſence we have ſo long wanted, that had you ſtaid but a little longer, it might have been left to be in<g ref="char:EOLhyphen"/>quired what <hi>England</hi> was; we mean, what was become of that People, by whom God for ſo many years fill'd the World with ſo much Ad<g ref="char:EOLhyphen"/>miration and Terror. But though this great Work be (as moſt juſtly it ought to be) won<g ref="char:EOLhyphen"/>derfull in our eyes; yet when we conſider its Author, who calls things that are not, as if they were, bringeth down to the Pit, and raiſeth up again; we ſee that nothing is difficult to Faith, and the promiſes of God are ſure and ſtable, e<g ref="char:EOLhyphen"/>ven then, when in the eye of man no leſs then impoſſible. We cannot but acknowledge to our exceeding great ſorrow and ſhame, that our ſelves, though we hope moſt of us, through weakneſs and frailty, (not out of Deſign) have very much contributed to thoſe provoca<g ref="char:EOLhyphen"/>tions, which have cauſed God to depart from our Iſrael; and we could heartily wiſh that even amongſt thoſe that help to make up your own number, there had not been an helping hand to this ſad and deplorable work. But we ſee when Gods hour is come, and the time of his Peoples deliverance, (even the ſet time at hand) he co<g ref="char:EOLhyphen"/>meth skipping over all the mountains of ſin and
+<pb n="3" facs="tcp:168580:3"/>unworthineſs that we daily caſt in his way. We are not willing to detain your Honors too long upon this Subject, and therefore beſeeching the God of all our Mercies, to heal the backſlidings of his People, and not to charge unto their ac<g ref="char:EOLhyphen"/>count, in this his day of their deliverance, their miſcarriages, whileſt they were wandring in dark and ſlippery places, after the imaginations of their own hearts; We with all humility and af<g ref="char:EOLhyphen"/>fection in the firſt place congratulate you in this your happy Reſtauration to the Government of theſe Nations, which God was once pleaſed ſo to own in your hands, as to make you both the Praiſe and Wonder of the Earth, the Glory and Rejoycing of his People, and the Terrour of your adverſaries; and we acknowledge it a ſin<g ref="char:EOLhyphen"/>gular condiſcention in you, in this day of ſo great difficulties, to take upon you ſo heavy a bur<g ref="char:EOLhyphen"/>then. And ſeeing his late Highneſs hath been pleaſed to manifeſt ſo much ſelf-denial and love to his Countrey, in appearing for the Intereſt thereof againſt his own: We humbly intreat, That ſome ſpeedy care may be taken for Him and His Family, (together with Her Highneſs Dowager) That there may be ſuch an honorable proviſion ſetled upon them, and ſuch other Dig<g ref="char:EOLhyphen"/>nities as are ſutable to the former great Services of that Family to theſe Nations.</p>
+            <p>And in the next place, we cannot but hum<g ref="char:EOLhyphen"/>bly
+<pb n="4" facs="tcp:168580:4"/>beſeech you, now you have an opportuni<g ref="char:EOLhyphen"/>ty, then which a fitter your hearts did never pray for, to finiſh the work of Reformation that hath been ſo long upon the wheel, and met with ſo great obſtuctions, that you would not heal the wound of the Daughter of Gods people ſlightly, but make ſo ſure &amp; laſting proviſion for both their Chriſtian and Civil Rights, as that both this and future Generations may have cauſe to riſe up, and call you bleſſed; and the black<g ref="char:EOLhyphen"/>eſt of Deſigns may never be able to caſt dirt in your faces any more, and as helpfull to theſe two great concernments, Religion, and Liberty, we humby propoſe unto your mature Conſide<g ref="char:EOLhyphen"/>ration theſe two deſires,</p>
+            <p>Firſt, That you would be pleaſed to counte<g ref="char:EOLhyphen"/>nance Godlineſs and all the ſincere profeſſors thereof, encourage an able and laborious Mini<g ref="char:EOLhyphen"/>ſtery, and ſuffer no other yoak to be impoſed up<g ref="char:EOLhyphen"/>on the Conſciences of Gods people, then what may be agreeable to the word of God; and that you would be a terrour to all impious, prophane and licentious people whatſoever.</p>
+            <p>Secondly, That you would ſo vindicate and aſſert the native Rights and Liberties of theſe Nations, in and by the Government of a Free State, that there may not be the voice of an oppreſſed one in our Land, but that all may en<g ref="char:EOLhyphen"/>joy the bleſſed fruits of your Righteous and
+<pb n="5" facs="tcp:168580:4"/>Peaceable Government. And for the prevention of all poſſibility for Ambitious ſpirits ever to work their ends againſt you, we humbly deſire you to be very careful, as well what perſons you intruſt with the management of the Armies and Navies of this Commowealth, as of the meaſure of that Power and Authority you depart with to them, or ſubſtitute in them. Touching the Qua<g ref="char:EOLhyphen"/>lifications of the perſons, we deſire they may be truly Godly and Conſciencious. Touching the meaſure of their Authority, that it may be ade<g ref="char:EOLhyphen"/>quate to the nature and being of a Common<g ref="char:EOLhyphen"/>wealth.</p>
+            <p>And whileſt you are thus pleading and aſſer<g ref="char:EOLhyphen"/>ting the intereſt of God and his People, you may reſt aſſured, with greateſt confidence, that we ſhall appear in your defence, and the vindica<g ref="char:EOLhyphen"/>tion of your Authority, againſt the oppoſition of all Arbitrary Powers whatſoever.</p>
+            <p>And to that bleſſed and All-powerful God, who is able to ſpirit you for this Great Work, you are and ſhall daily be recommended in the the Prayers of,</p>
+            <closer>
+               <signed>
+                  <hi>Your moſt Loyal and moſt obedient Servants,</hi>
+                  <pb n="6" facs="tcp:168580:5"/>
+                  <list>
+                     <item>
+                        <hi>George Monck.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Reade.</hi>
+                     </item>
+                     <item>
+                        <hi>Ralph Cobbet.</hi>
+                     </item>
+                     <item>
+                        <hi>Timothy Wilks.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Reade.</hi>
+                     </item>
+                     <item>
+                        <hi>John Cloberrey.</hi>
+                     </item>
+                     <item>
+                        <hi>Abraham Holmes.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Dorney.</hi>
+                     </item>
+                     <item>
+                        <hi>Daniel Daviſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Heath.</hi>
+                     </item>
+                     <item>
+                        <hi>Mi. Richardſon.</hi>
+                     </item>
+                     <item>
+                        <hi>John Hubbelthorn.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Johnſon.</hi>
+                     </item>
+                     <item>
+                        <hi>P. Criſp.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Brightman.</hi>
+                     </item>
+                     <item>
+                        <hi>Philip Watſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Dean.</hi>
+                     </item>
+                     <item>
+                        <hi>Jeremiah Smith.</hi>
+                     </item>
+                     <item>
+                        <hi>William Davis.</hi>
+                     </item>
+                     <item>
+                        <hi>James Wright.</hi>
+                     </item>
+                     <item>
+                        <hi>Joſeph Wallington.</hi>
+                     </item>
+                     <item>
+                        <hi>William Helling.</hi>
+                     </item>
+                     <item>
+                        <hi>Ethelbert Morgan.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Winter.</hi>
+                     </item>
+                     <item>
+                        <hi>John Paddon.</hi>
+                     </item>
+                     <item>
+                        <hi>Anthony Nowers.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
